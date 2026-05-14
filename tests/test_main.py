@@ -1,6 +1,7 @@
 import csv
 import os
 import pytest
+import pandas as np
 
 from helpers import read_csv
 
